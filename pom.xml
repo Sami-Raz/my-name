@@ -62,4 +62,16 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+      <repository>
+         <id>deployment</id>
+         <name>Internal releases</name>
+         <url>http://104.196.11.122:8081/repository/SAMPLE-REL/</url>
+      </repository>
+    <snapshotRepository>
+      <id>deployment</id>
+         <name>Internal Snapshot releases</name>
+         <url>http:http://104.196.11.122:8081/repository/SAMPLE-SNAPSHOT/</url>
+    </snapshotRepository>
+   </distributionManagement>
 </project>
