@@ -66,12 +66,12 @@
       <repository>
          <id>deploymentRepo</id>
          <name>Internal Releases</name>
-         <url>http://104.196.11.122:8081/repository/SAMPLE-REL/</url>
+         <url>http://104.196.11.122:8081/repository/maven-releases/</url>
       </repository>
     <snapshotRepository>
       <id>deploymentRepo</id>
          <name>Internal Releases</name>
-         <url>http://104.196.11.122:8081/repository/SAMPLE-SNAPSHOT/</url>
+         <url>http://104.196.11.122:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
    </distributionManagement>
 </project>
