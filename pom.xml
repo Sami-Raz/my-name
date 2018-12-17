@@ -71,7 +71,7 @@
     <snapshotRepository>
       <id>snapshots</id>
          <name>Snapshots</name>
-         <url>http:http://104.196.11.122:8081/repository/SAMPLE-SNAPSHOT/</url>
+         <url>http://104.196.11.122:8081/repository/SAMPLE-SNAPSHOT/</url>
     </snapshotRepository>
    </distributionManagement>
 </project>
