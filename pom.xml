@@ -64,12 +64,12 @@
   </build>
   <distributionManagement>
       <repository>
-         <id>releases</id>
+         <id>deploymentRepo</id>
          <name>SAMPLE-REL</name>
          <url>http://104.196.11.122:8081/repository/SAMPLE-REL/</url>
       </repository>
     <snapshotRepository>
-      <id>snapshots</id>
+      <id>deploymentRepo</id>
          <name>SAMPLE-SNAPSHOT</name>
          <url>http://104.196.11.122:8081/repository/SAMPLE-SNAPSHOT/</url>
     </snapshotRepository>
